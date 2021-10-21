@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
+
+//this restaurants component renders the names of the restaurants to the page
 class Restaurants extends Component {
 
   render() {
